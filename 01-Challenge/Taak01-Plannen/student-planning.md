@@ -15,12 +15,12 @@
 | Planning    | Planning maken                                 | 00:30 u             | Bezig  |
 | Ontwerpen   | Mockup van portfolio maken                     | 01:30 u                     |        |
 | ...         | Styling van elementen bepalen                  | 00:10 u                   |        |
-| Realiseren  | Bestanden aanmaken                             | 00:30 u                    |        |
+| Realiseren  | Bestanden aanmaken                             | 02:30 u                    |        |
 | ...         |                                                |                     |        |
 | Testen      | Applicatie testen                              | 00:15 u                   |        |
 | ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 u                    |        |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:50 u                    |        |
 | ...         |                                                |                     |        |
 | Presenteren |                                                |                     |        |
 | ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    | 01:00                   |        |
+| Refecteren  | Reflectiedocument schrijven                    | 01:30                   |        |
