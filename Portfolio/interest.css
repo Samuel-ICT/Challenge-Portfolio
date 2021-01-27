@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.max-width{
+    width: 1300px;
+    padding: 0 80px;
+    margin: auto;
+}
+/* navigatie bar styling */
+.navbar{
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 30px 0;
+}
+.navbar .max-width{
+   display: flex; 
+   align-items: center;
+   justify-content: space-between;
+}
+.navbar .logo a{
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
+}
+.navbar .logo a span{
+    color: crimson; 
+}
+.navbar .menu li{
+    list-style: none;
+    display: inline-block;
+}
+.navbar .menu li a{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 25px;
+    transition: color 0.3s ease;
+}
+.navbar .menu li a:hover{
+   color: crimson; 
+}
+body{
+    background-color: lightskyblue;
+
+}
+.img{
+    height: 100px;
+    width: 1530px;
+    object-fit: cover;
+}
+.text-1{
+    text-align: left;
+    font-size: 23px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 10px;
+}
+#h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 23px;
+}
+.img2{
+    height: 400px;
+    width: 500px;
+}
+#img3{
+    height: 400px;
+    width: 500px;
+    margin-left: 45%;
+}
+#img4{
+    height: 400px;
+    width: 600px;
+    margin-left: 45%;
+}
+.text-2{
+    font-size: 23px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 10px;
+}
+.text-3{
+    font-size: 23px;
+    font-family: 'Poppins', sans-serif;
+}
