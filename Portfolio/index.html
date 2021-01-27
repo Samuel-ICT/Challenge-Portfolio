@@ -14,9 +14,9 @@
             <ul class="menu">
                 <li><a href="#">Home</a></li>
                 <li><a href="about.html">About</a></li>
-                <li><a href="#">Interests</a></li>
-                <li><a href="#">Projects</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="interest.html">Interests</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
             </ul>
         </div>
     </nav>
@@ -25,11 +25,36 @@
     <section class="home" id="home">
         <div class="max-width">
             <div class="home-content">
-                <div class="text-1">Hallo, mijn naam is</div>
-                <div class="text-2">Samuel Adu  </div>
-                <div class="text-3">Welkom bij mijn portfolio</div>
+                <div class="text-1">Welkom, </div>
+                &nbsp;
+                <div class="text-2">Bij de portfolio van Samuel Adu!</div>
+                &nbsp;
+            
             </div>
         </div>
     </section>
+    <script>
+        var bezoeker={
+     naam : prompt("Type aub uw naam in"),
+    leeftijd : prompt("Wat is uw leeftijd?"),
+};
+if (bezoeker.naam != null) {
+    let koptekst = document.querySelector(".text-1");
+ koptekst.innerHTML = "Welkom," + " " + bezoeker.naam  ;
+
+console.log(bezoeker);
+
+ if (bezoeker.leeftijd >=18) {
+   koptekst.style.color= 'lightgreen';
+    }
+     if (bezoeker.leeftijd <18) {
+        koptekst.style.color = 'red';
+        }
+          if (bezoeker.leeftijd ==0) {
+            koptekst.style.color = 'lightblue';
+                    }
+                }
+    </script>
 </body>
+
 </html>
