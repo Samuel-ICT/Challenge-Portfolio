@@ -13,14 +13,14 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | Gedaan  |
-| Ontwerpen   | Mockup van portfolio maken                     | 01:30 u                    | Bezig        |
-| ...         | Styling van elementen bepalen                  | 00:25 u                   |        |
-| Realiseren  | Bestanden aanmaken                             | 02:30 u                    |        |
+| Ontwerpen   | Mockup van portfolio maken                     | 01:30 u                    | Gedaan       |
+| ...         | Styling van elementen bepalen                  | 00:45 u                   |  Gedaan      |
+| Realiseren  | Bestanden aanmaken                             | 06:30 u                    |  Gedaan      |
+| ...         |                                                |                     |       |
+| Testen      | Applicatie testen                              | 00:05 u                   |  Gedaan      |
 | ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              | 00:15 u                   |        |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 u                    |  GEdaan      |
 | ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:50 u                    |        |
+| Presenteren |                                                |                     | Gedaan       |
 | ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
-| ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    | 01:30                   |        |
+| Refecteren  | Reflectiedocument schrijven                    | 01:30                   | Bezig       |
