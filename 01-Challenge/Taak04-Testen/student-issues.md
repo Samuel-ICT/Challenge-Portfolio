@@ -3,6 +3,8 @@
 ## Issuelijst
 
 1. Javascript werkt niet....kleur wordt niet verandert als bezoeker onder/boven 18 is. 
-2. Sites zijn niet gelinkt met elkaar
+2. Pagina's  zijn niet gelinkt met elkaar
 3. Spelfouten
-4. Ik had mijn eerste ontwerp niet gebruikt, omdat ik het niet mooi genoeg vond. Ik kwam de volgende dag met een betere idee en onderwerp, wat ik nu heb opgebeeld lmijn  site. 
+4. Ik had mijn eerste wireframe niet gebruikt, omdat ik het niet mooi genoeg vond. Ik kwam de volgende dag met een betere idee en ontwerp.
+5. Font- size kan wat groter
+6. Tekst moet 10px van de kant geschoven worden
