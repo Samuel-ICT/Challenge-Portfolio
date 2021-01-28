@@ -19,8 +19,8 @@
 | ...         |                                                |                     |       |
 | Testen      | Applicatie testen                              | 00:05 u                   |  Gedaan      |
 | ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 u                    | Bezig      |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 u                    | Bezig  |
 | ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
+| Presenteren |                                                | 00:05 u                     | Gedaan      |
 | ...         |                                                |                     |        |
 | Refecteren  | Reflectiedocument schrijven                    | 01:30                   |       |
